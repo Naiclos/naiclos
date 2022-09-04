@@ -3,7 +3,7 @@
 ![donate_keybase](https://img.shields.io/keybase/xlm/nicolaso)
 
 # @naiclos
-> Robbotic Process Automation Engineer, designer, and developer 🇨🇱
+> Robbotic Process Automation Engineer, designer and developer 🇨🇱
 
 
 #### &#x1f4c8; Stats
