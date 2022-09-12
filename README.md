@@ -3,7 +3,7 @@
 ![donate_keybase](https://img.shields.io/keybase/xlm/nicolaso)
 
 # @naiclos
-> Robbotic Process Automation Engineer, designer and developer 🇨🇱
+> Robotic Process Automation Engineer, designer, and developer 🇨🇱
 
 
 #### &#x1f4c8; Stats
@@ -22,5 +22,5 @@
 
 #### 📚 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Que es una cooperativa?](https://medium.com/telluscoop/qu%C3%A9-es-una-cooperativa-un-analisis-en-chile-121ab4316bdc)
+- [¿Qué es una cooperativa?](https://medium.com/telluscoop/qu%C3%A9-es-una-cooperativa-un-analisis-en-chile-121ab4316bdc)
 <!-- BLOG-POST-LIST:END -->
