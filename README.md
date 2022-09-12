@@ -17,8 +17,6 @@
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naiclos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 📚 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [¿Qué es una cooperativa?](https://medium.com/telluscoop/qu%C3%A9-es-una-cooperativa-un-analisis-en-chile-121ab4316bdc)
